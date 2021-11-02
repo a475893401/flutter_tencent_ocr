@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  crypto: ^2.0.0
+  crypto: ^2.1.2
   hex: ^0.1.2
   dio: ^3.0.9
 
